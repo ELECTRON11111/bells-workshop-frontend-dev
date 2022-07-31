@@ -1,0 +1,36 @@
+/* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+} */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #28282b;
+}
+
+.wrapper {
+	width: 100%;
+	text-align: center;
+	margin-top: 200px;
+}
+
+.form {
+	background: #555555;
+	padding: 40px;
+	width: 60%;
+	margin: 0px auto;
+}
+
+.form h1 {
+	color: #fff;
+}
+
+.form input {
+	display: block;
+	margin: 20px auto;
+	padding: 5px;
+}
